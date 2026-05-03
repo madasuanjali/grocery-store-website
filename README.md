@@ -1,2 +1,23 @@
-# grocery-store-website
-A responsive Grocery Store Website built using HTML, CSS, and JavaScript with features like product search, add to cart, remove items, dark mode, checkout, and total bill calculation.
+# Grocery Store Website
+
+This is a simple Grocery Store Website built using HTML, CSS, and JavaScript.
+
+## Features
+
+* View products
+* Search products
+* Add to cart
+* Remove items
+* Total price calculation
+
+## Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
+## Live Demo
+https://github.com/madasuanjali/grocery-store-website.git
+## Author
+
+Anjali Madasu
