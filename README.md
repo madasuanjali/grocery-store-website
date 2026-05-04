@@ -17,7 +17,7 @@ This is a simple Grocery Store Website built using HTML, CSS, and JavaScript.
 * JavaScript
 
 ## Live Demo
-https://github.com/madasuanjali/grocery-store-website.git
+ https://madasuanjali.github.io/grocery-store-website/
 ## Author
 
 Anjali Madasu
